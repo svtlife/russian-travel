@@ -1,0 +1,9 @@
+.content__section_margin_top {
+  margin-top: 56px;
+}
+
+@media screen and (max-width: 1279px) {
+  .content__section_margin_top {
+    margin-top: 48px;
+  }
+}

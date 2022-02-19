@@ -1,0 +1,11 @@
+.place__description {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 767px) {
+  .place__description {
+    order: 4;
+    margin: 0 16px;
+  }
+}
